@@ -27034,8 +27034,8 @@ socket.on('orderUpdated', function (data) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/vishwashbajpai/projects/Food-Ordering-Website/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /home/vishwashbajpai/projects/Food-Ordering-Website/resources/scss/app.scss */"./resources/scss/app.scss");
+__webpack_require__(/*! /home/vishwashbajpai/Restaurant-App/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /home/vishwashbajpai/Restaurant-App/resources/scss/app.scss */"./resources/scss/app.scss");
 
 
 /***/ })
